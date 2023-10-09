@@ -1,7 +1,7 @@
 ### Hi there 👋
-😎 I am a student of ITMO University.
-😅 My weird (and not so weird) programming attempts are collected here.
-😇 Do not watch for especially sensitive people, and the rest - do not judge.
+- 😎 I am a student of ITMO University.
+- 😅 My weird (and not so weird) programming attempts are collected here.
+- 😇 Do not watch for especially sensitive people, and the rest - do not judge.
 
 <!--
 **vladutsenko/vladutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
